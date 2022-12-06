@@ -1,16 +1,3 @@
 # travelpin
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+제 첫 flutter 프로젝트였던 트래플핀의 리뉴얼 레포입니다.   
+디자인이나 큰 틀의 기능은 변경하지 않고 앱 내에 상태 관리와 뷰 로직 리팩토링을 목적으로 삼습니다.
